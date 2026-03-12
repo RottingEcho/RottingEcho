@@ -5,7 +5,7 @@
 
 <p align="center"> $${\color{#5c5163} Murder \space / Dusty \space /Echo \space / MS \space /Horror }$$
 <p align="center">$${\color{#553f59} mirror\space /any \space prns \space. \space eng \space+ \space cn }$$
-<p align="center"> $${\color{#4a2f5c} 16 .\space Taken \space by \space <@perilkitty\space3 }$$
+<p align="center"> $${\color{#4a2f5c} 17 .\space Taken \space by \space <@perilkitty\space3 }$$
 <p align="center"> $${\color{#3e315e} read \space rentry \space b4yi \space + \space sign \space ata }$$
 
 <p align="center"> <a href="https://rentry.co/duztbunnyy">Rentry . <a href="https://h0rr0z.atabook.org/">Ata  </a> </p>
