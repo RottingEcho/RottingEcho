@@ -14,4 +14,4 @@
 <p align="center"> <a href="https://rentry.co/duztbunnyy">Rentry . <a href="https://h0rr0z.atabook.org/">Ata  </a> </p>
 
 <p align="center"> $${\color{#283262} Best \space to \space w2i \space cause \space I'm \space mostly \space AFK \space /c*h \space freely \space unless \space stated \space otherwise }$$
-<p align="center"> <a href= "https://rentry.co/Awarness">Awareness doc
+<p align="center"> <a href= "https://rentry.co/Awarness">Awareness doc / <a href= ''https://rentry.co/responsedoc''>Response doc
