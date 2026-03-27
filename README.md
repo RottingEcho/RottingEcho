@@ -3,8 +3,8 @@
 <p align="center"> $${\color{#615f71} OG \space arts \space made \space by \space @nicomikha \space on \space twitter }$$
   <p align="center">
 <p align="center">
-  <p align="center">
-  <img src="https://media.discordapp.net/attachments/1373630870337884314/1472412053120487686/Untitled126_0000-06-57_20260215095905.png?ex=69b80cd5&is=69b6bb55&hm=5c1e2c3a58bbd3ef5f0f46a8aa30cfb6704f1762bc50c4a8981c9b7253ff5121&=&format=webp&quality=lossless&width=929&height=800" width="450">
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1373630870337884314/1472412053120487686/Untitled126_0000-06-57_20260215095905.png?ex=69c7ded5&is=69c68d55&hm=41a3024586d49215013de2858b5b1cba42a71a83bdb8dfc0d73b7a457c3d11a1&=&format=webp&quality=lossless" width="600" height="auto" alt="Repository Image">
 </p>
 <p align="center"> $${\color{#5c5163} Horror \space /Chase \space / Dusty \space /Chance }$$
 <p align="center">$${\color{#553f59} mirror\space /any \space prns \space. \space eng \space+ \space cn }$$
