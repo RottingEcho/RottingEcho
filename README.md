@@ -9,7 +9,7 @@
 <p align="center"> $${\color{#4a2f5c} 17 .\space Taken \space by \space <@perilkitty\space3 }$$
 <p align="center"> $${\color{#3e315e} read \space rentry \space b4yi \space + \space sign \space ata }$$
 
-<p align="center"> <a href="https://rentry.co/duztbunnyy">Rentry . <a href="https://h0rr0z.atabook.org/">Ata  </a> </p>
+<p align="center"> Rentry [wip] . <a href="https://h0rr0z.atabook.org/">Ata  </a> </p>
 
 <p align="center"> $${\color{#283262} Best \space to \space w2i \space cause \space I'm \space mostly \space AFK \space /c*h \space freely \space unless \space stated \space otherwise }$$
 <p align="center"> <a href= "https://rentry.co/Awarness">Awareness doc / <a href= "https://rentry.co/responsedoc">Response doc
