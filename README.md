@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=RottingEcho&color=553f59&style=for-the-badge&label=Stalker+Glances) 
+![](https://komarev.com/ghpvc/?username=RottingEcho&color=40444b&style=for-the-badge&label=Stalker+Glances) 
 
 <p align="center">
   <img src="https://files.catbox.moe/e2gsnl.png">
