@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://files.catbox.moe/e2gsnl.png">
 </p>
-<p align="center"> $${\color{#576399} Horror \space /Chase \space / Dusty \space /Chance }$$
+<p align="center"> $${\color{#576399} Horror \space /Chase \space / Dusty \space /MS }$$
 <p align="center">$${\color{#4e5571} mirror\space /any \space prns \space. \space eng \space+ \space cn }$$
 <p align="center"> $${\color{#454a5b} 17 .\space Taken \space by \space <@killpyre\space3 }$$
 <p align="center"> $${\color{#40444b} read \space rentry \space b4yi \space + \space sign \space ata }$$
